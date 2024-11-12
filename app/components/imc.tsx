@@ -13,9 +13,9 @@ export default function IMC(){
     }
     return <div>
         <label htmlFor="peso">Peso (em kg)</label>
-        <input type="number" id="peso" name="peso" value ="peso" onChange={(e) => setPeso(e.target.value)}></input>
+        <input type="number" id="peso" name="peso" value ={peso} onChange={(e) => setPeso(e.target.value)}></input>
         <label htmlFor="altura">Altura (em cm)</label>
-        <input type="number" id="altura" name="altura" value ="altura" onChange={(e) => setAltura(e.target.value)}></input>
+        <input type="number" id="altura" name="altura" value ={altura} onChange={(e) => setAltura(e.target.value)}></input>
         <button onClick={handleClick}>Calcular</button>
         <p>IMC: {imc}</p>
     </div>

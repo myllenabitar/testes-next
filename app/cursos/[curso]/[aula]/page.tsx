@@ -1,4 +1,4 @@
-import { getAula } from '@/api/cursos';
+import { getAula } from '@/app/api/cursos';
 import Link from 'next/link';
 type PageParams = {
     params: {

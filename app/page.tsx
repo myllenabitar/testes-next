@@ -1,4 +1,4 @@
-import ServerFetch from "./components/serverFetch";
+import ServerFetch from "../src/components/serverFetch";
 
 export default async function HomePage() {
   return (

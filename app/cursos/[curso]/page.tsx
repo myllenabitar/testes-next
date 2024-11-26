@@ -1,5 +1,5 @@
 
-import { getCurso } from '@/api/cursos';
+import { getCurso } from '@/app/api/cursos';
 import Link from 'next/link';
 
 export default async function CursoPage({

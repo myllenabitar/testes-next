@@ -1,4 +1,4 @@
-import IMC from "../components/imc";
+import IMC from "../../src/components/imc";
 
 export default function IMCPage(){
     return <div>

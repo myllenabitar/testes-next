@@ -1,3 +1,5 @@
+import { NextRequest } from "next/server";
+
 export async function GET() {
     const response = await fetch(`https://api.origamid.online/vendas`, {
         method: 'POST',
@@ -21,4 +23,9 @@ export async function GET() {
         });
 
         return Response.json(data);
+}
+
+export async function POST (REQUEST: NextRequest) {
+    const param = request.nextUrl.searchParams.get('busca');
+    return Response.json({method: 'POST'})
 }

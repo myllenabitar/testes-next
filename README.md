@@ -1,26 +1,72 @@
-<h1 align="center">Testes com Next.JS</h1>
+# Testes com Next.js
 
-<img src="" alt="">
+<p align="center">
+  <img src="" alt="Projeto em Next.js">
+</p>
 
-<h2>Badges:</h2>
-Ultima versão: Novembro 2024.
+## 📚 Sobre o Projeto
+Este projeto reúne experimentos e estudos realizados com **Next.js**, incluindo o uso de APIs, roteamento, e outras funcionalidades da tecnologia. É parte do meu aprendizado contínuo no desenvolvimento front-end.
 
-<h2>Descrição de Projeto</h2>
-Testes realizados nos meus estudos de Next.JS: temos o uso de apis, temos routes e etc.
+---
 
-<h2>Status do Projeto</h2>
-<h4 align="center">🚧: Em construção 🚧:</h4>
-<h2>:hammer:Funcionalidades e Demonstração da Aplicação</h2>
-<img src="" alt="">
+## 🚧 Status do Projeto
+**Em construção** 🚧
 
-<h2>Acesso ao projeto</h2>
-npm start
+---
 
-<h2> Tecnologias Utilizadas</h2>
-<h3>Next.JS</h3>
-<h3> JavaScript</h3>
-<h3> HTML</h3>
-<h3> CSS</h3>
-<H2>Autores</H2>
-<h3>Myllena Bitar</h3>
-<img src="https://avatars.githubusercontent.com/u/111917539?v=4" alt="Myllena Bitar">
+## 🔧 Funcionalidades
+- Implementação de rotas dinâmicas e estáticas.
+- Consumo de APIs externas utilizando `fetch` e outras ferramentas.
+- Gerenciamento de estados e rendering otimizado.
+- Estilização com CSS e HTML.
+
+
+---
+
+## 📂 Acesso ao Projeto
+Para acessar e rodar o projeto localmente:
+
+1. Clone o repositório:
+   ```bash
+   git clone <URL_DO_REPOSITORIO>
+   ```
+2. Instale as dependências:
+   ```bash
+   npm install
+   ```
+3. Inicie o servidor local:
+   ```bash
+   npm run dev
+   ```
+4. Abra no navegador:
+   ```
+   http://localhost:3000
+   ```
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- **Next.js**  
+- **JavaScript**  
+- **HTML**  
+- **CSS**
+
+---
+
+## 👩‍💻 Autora
+
+**Myllena Bitar**  
+Desenvolvedora front-end em transição de carreira, apaixonada por tecnologia e design.
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/111917539?v=4" alt="Myllena Bitar" width="100px">
+</p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-MyllenaBitar-blue?logo=github)](https://github.com/MyllenaBitar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MyllenaBitar-blue?logo=linkedin)](https://linkedin.com/in/MyllenaBitar)
+
+---
+
+## 📅 Última atualização
+Novembro de 2024

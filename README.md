@@ -1,7 +1,8 @@
 # Testes com Next.js
 
 <p align="center">
-  <img src="" alt="Projeto em Next.js">
+  <img src="https://github.com/user-attachments/assets/6136bfd9-2826-4354-9fc4-34d53a51f52a" alt=""
+Projeto em Next.js">
 </p>
 
 ## 📚 Sobre o Projeto
@@ -28,7 +29,7 @@ Para acessar e rodar o projeto localmente:
 
 1. Clone o repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/myllenabitar/testes-next.git
    ```
 2. Instale as dependências:
    ```bash

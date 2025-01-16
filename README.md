@@ -1,4 +1,4 @@
-# Testes com Next.js
+# Estudos com Next.js
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6136bfd9-2826-4354-9fc4-34d53a51f52a" alt=""
